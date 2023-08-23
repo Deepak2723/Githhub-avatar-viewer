@@ -1,0 +1,10 @@
+/* UserInput.css */
+.UserInput {
+  margin: 20px 0;
+}
+
+.UserInput input {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+}

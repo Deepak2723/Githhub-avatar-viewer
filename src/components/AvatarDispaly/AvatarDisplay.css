@@ -1,0 +1,14 @@
+/* AvatarDisplay.css */
+.AvatarDisplay {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+  }
+  
+  .AvatarDisplay img {
+    max-width: 100%;
+    max-height: 300px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+   
+  }
+  
